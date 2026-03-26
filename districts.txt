@@ -1,0 +1,22 @@
+Nablus|Nablus|156000
+Nablus|Balata|28000
+Nablus|Beit Furik|17000
+Nablus|Asira al-Qibliya|12000
+Ramallah|Ramallah|35000
+Ramallah|Al-Bireh|120000
+Ramallah|Beituniya|20000
+Ramallah|Deir Ghassana|5000
+Hebron|Hebron|215000
+Hebron|Yatta|70000
+Hebron|Dura|45000
+Hebron|Halhul|27000
+Tubas|Tubas|40000
+Tubas|Tammun|15000
+Tubas|Bardala|7000
+Jenin|Jenin|40000
+Jenin|Arraba|25000
+Jenin|Qabatiya|35000
+Jenin|Meithalun|10000
+Jericho|Jericho|20000
+Jericho|Al-Auja|15000
+Jericho|Ein al-Sultan|8000
